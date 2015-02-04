@@ -1,0 +1,39 @@
+
+Arquivos
+1. Neon Bootstrap (showcase)
+2. Timer JQuery(Usar para o controle do tempo)
+3. Add.php (Adicionar tópicos dinamicamente)
+4. FullCalendar (Componente de Calendário do Bootstrap em php e MySQL)
+5. Fontes do EasyMeeting
+6. Xampp
+7. Aptana Studio
+
+
+ 1. Colocar o calendário do Bootstrap para funcionar com o MySQL
+ 	- Selecionar os participantes
+ 	- O Calendário exibe os horários de cada participante
+ 	- Ao clicar num dia específico, abre a tela de agandamento com os 
+ 	  usuários selecionados
+ 
+ 2. Unir as telas de usuário e funcionário
+ 	- Todos os usuários são da empresa
+ 
+ 3. Finalizar a tela de agendamento de reunião
+ 	- Enviar email para os participantes
+ 	- Anexar arquivos
+ 	- Incluir Tópicos dinamicamente
+ 	- Verificar se os horários disponíveis dos participantes
+ 	- Verificar as salas disponíveis
+ 	
+ 4. Criar a tela de Execução de Reunião com o componente Timer
+ 	- Controle do tempo da reunião e dos tópicos
+ 	- Permitir incluir novo tópico
+ 	- Registrar as decisões do tópico
+ 	- Registrar as recomendações do tópico
+ 	- Registrar sugestões extra-pauta
+ 
+ 5. Reestruturar a tela principal
+ 
+ 6. Gravar os recursos da sala 
+ 
+ 7. Criar gráficos e relatórios de acompanhamento
